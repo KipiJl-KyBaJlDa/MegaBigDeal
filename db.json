@@ -1,1 +1,11 @@
-
+{
+    "users":[
+       {
+        "id": 1,
+        "name": "Artem",
+        "surname": "Fedorenko",
+        "photo_url": "https://carwow-uk-wp-3.imgix.net/18015-MC20BluInfinito-scaled-e1707920217641.jpg",
+        "balance": 1500
+       }
+    ]
+}
