@@ -1,5 +1,12 @@
 {
     "users":[
-        
+
+        {
+         "id": 3,
+         "name":"Glechik",
+         "surname": "Svynenko",  
+        "photo_url":"https://www.worldanimalprotection.org.uk/cdn-cgi/image/width=800,format=auto,fit=cover/siteassets/article/1019368_0.jpg",
+        "balance": 1939  
+        },
     ]
 }
