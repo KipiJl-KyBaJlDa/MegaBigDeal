@@ -1,5 +1,11 @@
 {
     "users":[
-        
+        {
+        "id": 1,
+        "name": "Andriy",
+        "surdname": "Tubarov",
+        "photo_url": "https://img.pravda.com/images/doc/2/6/2650c45-kolomoyskiy-690.jpg",
+        "balanse": 1500   
+        }     
     ]
 }
