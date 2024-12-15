@@ -34,6 +34,13 @@
             "surname": "Kucherina",
             "photo_url": "https://camo.githubusercontent.com/a70c0f6a2bd369037aef52d2e52cea555ee605fd6e465f1f084371c30a55b604/68747470733a2f2f692e70696e696d672e636f6d2f636f6e74726f6c322f373336782f39332f37622f66642f39333762666436383337653931636230663863353432343834626363393032662e6a7067",
             "balance": 6000
+        },
+        {
+            "id": 5,
+            "name": "Kiril",
+            "surname": "Big",
+            "photo_url": "",
+            "balance": 10
         }
     ]
 }
