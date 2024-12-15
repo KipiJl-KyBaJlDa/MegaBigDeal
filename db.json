@@ -1,11 +1,39 @@
 {
-    "users":[
+    "users": [
         {
-        "id": 1,
-        "name": "Andriy",
-        "surdname": "Tubarov",
-        "photo_url": "https://img.pravda.com/images/doc/2/6/2650c45-kolomoyskiy-690.jpg",
-        "balanse": 1500   
-        }     
+            "id": 5,
+            "name": "Andriy",
+            "surdname": "Tubarov",
+            "photo_url": "https://img.pravda.com/images/doc/2/6/2650c45-kolomoyskiy-690.jpg",
+            "balanse": 1500
+        },
+        {
+            "id": 4,
+            "name": "AlexGit321-code",
+            "surname": "qwerty321",
+            "photo_url": "https://static.vecteezy.com/vite/assets/photo-masthead-375-BoK_p8LG.webp",
+            "balance": 1500
+        },
+        {
+            "id": 3,
+            "name": "Glechik",
+            "surname": "Svynenko",
+            "photo_url": "https://www.worldanimalprotection.org.uk/cdn-cgi/image/width=800,format=auto,fit=cover/siteassets/article/1019368_0.jpg",
+            "balance": 1939
+        },
+        {
+            "id": 2,
+            "name": "Artem",
+            "surname": "Fedorenko",
+            "photo_url": "https://carwow-uk-wp-3.imgix.net/18015-MC20BluInfinito-scaled-e1707920217641.jpg",
+            "balance": 1500
+        },
+        {
+            "id": 1,
+            "name": "Andriy",
+            "surname": "Kucherina",
+            "photo_url": "https://camo.githubusercontent.com/a70c0f6a2bd369037aef52d2e52cea555ee605fd6e465f1f084371c30a55b604/68747470733a2f2f692e70696e696d672e636f6d2f636f6e74726f6c322f373336782f39332f37622f66642f39333762666436383337653931636230663863353432343834626363393032662e6a7067",
+            "balance": 6000
+        }
     ]
 }
