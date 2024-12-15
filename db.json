@@ -1,5 +1,10 @@
 {
     "users":[
-        
+        {   "id": 4,
+            "name": "AlexGit321-code",
+            "surname": "qwerty321",
+            "photo_url": "https://static.vecteezy.com/vite/assets/photo-masthead-375-BoK_p8LG.webp",
+            "balance": 1500   
+        }
     ]
 }
