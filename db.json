@@ -41,6 +41,13 @@
             "surname": "Big",
             "photo_url": "",
             "balance": 10
+        },
+        {
+            "id": 7,
+            "name": "Suren",
+            "surname": "Hak",
+            "photo_url": "https://f1rstmotors.com/_next/image?url=https%3A%2F%2Ff1rst-motors.s3.me-central-1.amazonaws.com%2Fblog%2F1709548217671-blob&w=3840&q=100",
+            "balance": 200
         }
     ],
     "products": [
@@ -61,12 +68,29 @@
             "photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1mjnJD9Dbk7lgdJSHay-t2diNkCR6nb5gRg&s"
         },
         {
+<<<<<<< HEAD
             "id": 2,
             "name": "Nissan Skyline GTR R34",
             "description": "FIRST",
             "price": 302,
             "authot id": 4,
             "photo_url": "https://hips.hearstapps.com/hmg-prod/images/road-track-gt-r-9-1645043420.jpg?crop=1xw:0.9995002498750625xh;center,top&resize=2048:*"
+=======
+            "id": 14,
+            "name": "Mortal Kombat 11",
+            "description": "Культова гра жанру файтинг, яка пропонує жорстокі битви, неймовірну графіку та захоплюючий сюжет.",
+            "price": 800,
+            "author_id": 1,
+            "photo_url": "https://upload.wikimedia.org/wikipedia/ru/4/4e/Mortal_Kombat_11.jpg"
+        },
+        {
+            "id": 15,
+            "name": "Mortal Kombat 1",
+            "description": "новий початок легендарної серії файтингів, який поєднує культових персонажів із сучасною графікою та механіками.",
+            "price": 800,
+            "author_id": 1,
+            "photo_url": "https://upload.wikimedia.org/wikipedia/ru/f/f4/Mortal_Kombat_1_%282023%29_cover.jpeg"
+>>>>>>> 9f707316f0bb2099796ba3978c9e9790d0dfb5da
         }
     ]
 }
