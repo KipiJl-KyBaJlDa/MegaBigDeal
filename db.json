@@ -51,6 +51,14 @@
             "price": 100000000000000000000,
             "authot id": 3,
             "photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1mjnJD9Dbk7lgdJSHay-t2diNkCR6nb5gRg&s"
+        },
+        {
+            "id": 15,
+            "name": "Bentley Continental gt",
+            "description": "im gey",
+            "price": 300000,
+            "authot id": 23,
+            "photo_url": "https://i.ytimg.com/vi/E-1Wam6vIf0/maxresdefault.jpg"
         }
     ]
 }
