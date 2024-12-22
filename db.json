@@ -98,6 +98,14 @@
             "price": 800,
             "author_id": 1,
             "photo_url": "https://upload.wikimedia.org/wikipedia/ru/f/f4/Mortal_Kombat_1_%282023%29_cover.jpeg"
+        },
+        {
+            "id": 9,
+            "name": "Oleksiu",
+            "description": "Alex",
+            "price": 800,
+            "author_id": 4,
+            "photo_url": "httpsgratisography.comwp-contentuploads202410gratisography-cool-cat-800x525.jpg"
         }
     ]
 }
