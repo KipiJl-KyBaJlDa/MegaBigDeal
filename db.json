@@ -41,6 +41,14 @@
             "surname": "Big",
             "photo_url": "",
             "balance": 10
+        },
+        {
+            "id": 7,
+            "name": "Suren",
+            "surname": "Hak",
+            "photo_url": "https://f1rstmotors.com/_next/image?url=https%3A%2F%2Ff1rst-motors.s3.me-central-1.amazonaws.com%2Fblog%2F1709548217671-blob&w=3840&q=100",
+            "balance": 200
         }
     ]
+   
 }
