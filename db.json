@@ -68,6 +68,22 @@
             "photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1mjnJD9Dbk7lgdJSHay-t2diNkCR6nb5gRg&s"
         },
         {
+            "id": 15,
+            "name": "Bentley Continental gt",
+            "description": "im gey",
+            "price": 300000,
+            "authot id": 5,
+            "photo_url": "https://i.ytimg.com/vi/E-1Wam6vIf0/maxresdefault.jpg"
+        },
+        {
+            "id": 2,
+            "name": "Nissan Skyline GTR R34",
+            "description": "FIRST",
+            "price": 302,
+            "authot id": 4,
+            "photo_url": "https://hips.hearstapps.com/hmg-prod/images/road-track-gt-r-9-1645043420.jpg?crop=1xw:0.9995002498750625xh;center,top&resize=2048:*"
+        },
+        {
             "id": 14,
             "name": "Mortal Kombat 11",
             "description": "Культова гра жанру файтинг, яка пропонує жорстокі битви, неймовірну графіку та захоплюючий сюжет.",
@@ -90,7 +106,14 @@
             "price": 200000,
             "author_id": 7,
             "photo_url": "https://f1rstmotors.com/_next/image?url=https%3A%2F%2Ff1rst-motors.s3.me-central-1.amazonaws.com%2Fblog%2F1709548217671-blob&w=3840&q=100"
+        },
+        {
+            "id": 9,
+            "name": "Oleksiu",
+            "description": "Alex",
+            "price": 800,
+            "author_id": 4,
+            "photo_url": "httpsgratisography.comwp-contentuploads202410gratisography-cool-cat-800x525.jpg"
         }
-        
     ]
 }
