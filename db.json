@@ -44,6 +44,13 @@
         }
     ],
     "products": [
-        
+        {
+            "id": 1,
+            "name": "Nissan s14",
+            "description": "Японська класика. Потужна і маневрена машина. Ідеально підійде для вуличного дріфту та нічних заїхдів!",
+            "price": 18000,
+            "author_id": 6,
+            "photo_url": "https://raw.githubusercontent.com/blacksempai/martplace/master/img/led.jpeg"
+        },
     ]
 }
