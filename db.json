@@ -64,7 +64,7 @@
             "name": "dino",
             "description": "the best",
             "price": 100000000000000000000,
-            "authot id": 3,
+            "author_id": 3,
             "photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1mjnJD9Dbk7lgdJSHay-t2diNkCR6nb5gRg&s"
         },
         {
@@ -72,7 +72,7 @@
             "name": "Bentley Continental gt",
             "description": "im gey",
             "price": 300000,
-            "authot id": 5,
+            "author_id": 5,
             "photo_url": "https://i.ytimg.com/vi/E-1Wam6vIf0/maxresdefault.jpg"
         },
         {
@@ -80,7 +80,7 @@
             "name": "Nissan Skyline GTR R34",
             "description": "FIRST",
             "price": 302,
-            "authot id": 4,
+            "author_id": 4,
             "photo_url": "https://hips.hearstapps.com/hmg-prod/images/road-track-gt-r-9-1645043420.jpg?crop=1xw:0.9995002498750625xh;center,top&resize=2048:*"
         },
         {
