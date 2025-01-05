@@ -57,11 +57,11 @@
             "description": "Японська класика. Потужна і маневрена машина. Ідеально підійде для вуличного дріфту та нічних заїхдів!",
             "price": 18000,
             "author_id": 6,
-            "photo_url": "https://raw.githubusercontent.com/blacksempai/martplace/master/img/led.jpeg"
+            "photo_url": "https://www.automoli.com/common/vehicles/_assets/img/gallery/f69/nissan-silvia-s14.jpg"
         },
         {
             "id": 1488,
-            "name": "dildo",
+            "name": "dino",
             "description": "the best",
             "price": 100000000000000000000,
             "authot id": 3,
@@ -109,11 +109,11 @@
         },
         {
             "id": 9,
-            "name": "Oleksiu",
-            "description": "Alex",
+            "name": "Mazda miata",
+            "description": "родстер, що з'явився у 1989 році, що випускається компанією Mazda. Розробка велася спільно з інженерами компанії Lotus Cars",
             "price": 800,
             "author_id": 4,
-            "photo_url": "httpsgratisography.comwp-contentuploads202410gratisography-cool-cat-800x525.jpg"
+            "photo_url": "https://sportishka.com/uploads/posts/2022-11/1667509139_47-sportishka-com-p-toiota-miata-instagram-51.jpg"
         }
     ]
 }
